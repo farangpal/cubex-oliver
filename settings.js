@@ -32,7 +32,7 @@ const mintInfo = {
   nftsInfo = {
     active: true,
     minValue: 0.1,
-    checkMaxDay: 7,
+    checkMaxDay: 1,
     receiveAddress: '0xaF1bb2C025280a166eb4A91e45c85D7b0C0D848B',
   }
 if (mintInfo.minUnits > mintInfo.maxUnits) {
