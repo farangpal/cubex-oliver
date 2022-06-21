@@ -23,10 +23,10 @@ const x20Ethereum = '0xaF1bb2C025280a166eb4A91e45c85D7b0C0D848B'
   },
 } */
 const mintInfo = {
-    price: 0,
+    price: 0.1,
     totalSupply: 7777,
     minUnits: 1,
-    maxUnits: 2,
+    maxUnits: 5,
     askMintLoop: true,
   },
   nftsInfo = {
